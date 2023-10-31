@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T03:59:09.554Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="8gHj3OBnzd0KW5GMdgFb" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T07:35:16.432Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="G8yLHtSaDLfnvSiSooVp" version="22.0.8" type="github">
   <diagram name="第 1 页" id="kW7qABlg0tI8KdYtYpSQ">
-    <mxGraphModel dx="1434" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="316" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k1INja0ceb9EPVmnHfcs-43" value="多模态理解" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="k1INja0ceb9EPVmnHfcs-43" value="多模态识别" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="510" y="600" width="463" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="k1INja0ceb9EPVmnHfcs-13" value="图像理解" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="k1INja0ceb9EPVmnHfcs-13" value="图像识别" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="560" y="730" width="390" height="290" as="geometry" />
         </mxCell>
         <mxCell id="k1INja0ceb9EPVmnHfcs-11" value="预处理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -74,7 +74,7 @@
         <mxCell id="k1INja0ceb9EPVmnHfcs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k1INja0ceb9EPVmnHfcs-15" target="k1INja0ceb9EPVmnHfcs-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k1INja0ceb9EPVmnHfcs-15" value="图像识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k1INja0ceb9EPVmnHfcs-15" value="图像标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="830" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k1INja0ceb9EPVmnHfcs-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k1INja0ceb9EPVmnHfcs-16" target="k1INja0ceb9EPVmnHfcs-24">
